@@ -14,3 +14,5 @@ eureka:
 
   instance:
     instance-id: config-8006
+
+number: 1
